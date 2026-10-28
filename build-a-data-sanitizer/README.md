@@ -9,3 +9,7 @@ A freeCodeCamp lab built with Node.js and Express that cleans and validates form
 - `POST /submit` applies both middleware at route level and returns the sanitised data as JSON.
 
 ## Run it
+
+1. Install dependencies with `npm i`
+2. Start the server with `node server.js`
+3. Open http://localhost:3000 in your browser
